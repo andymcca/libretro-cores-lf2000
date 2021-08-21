@@ -4,5 +4,7 @@ A repository for compiled libretro cores for Leapfrog devices (LeapPad / Leapste
 
 These can be used with Retroleap (see https://github.com/mac2612/retroleap)
 
-I will periodically compile cores based on releases, or git snapshots (these will be dated).
+I will periodically compile and add cores based on releases, or git snapshots (these will be dated).
+
+Please refer to each folder for Cores and the readme file for any notes.
 
