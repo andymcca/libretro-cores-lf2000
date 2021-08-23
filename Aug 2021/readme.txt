@@ -13,4 +13,11 @@ August 2021
   -  Once corrected, this built ok.
   -  Git snapshot.  Not tested.
   
+- lr_gpsp
+  - The Libretro version of GPSP has been significantly improved over the last few years. Many games now going further in=game and less crashing.
+  - In the last month, contributor davidgfnet has made several commits including some interpreter fixes, hence I have compiled another snapshot this month.
+  - Tested with Mario Golf Advance Tour, which had a restart bug with the original gpSP.  This now goes in-game and hasn't crashed yet.
+  - Last month's snapshot would crash when putting on Hole 1, but this appears to now be fixed!
+  - Undoubtedly many other games have benefited from the recent work on this core, so many thanks to davidfgnet!!
+  
   
