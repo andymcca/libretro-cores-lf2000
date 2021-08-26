@@ -20,4 +20,12 @@ August 2021
   - Last month's snapshot would crash when putting on Hole 1, but this appears to now be fixed!
   - Undoubtedly many other games have benefited from the recent work on this core, so many thanks to davidfgnet!!
   
+  lr_vice_x64 (Commodore 64 Emulator)
+  - Had a bit of trouble getting this to compile as it's not on the Retroleap Buildroot tree.
+  - Finally realised I just hadn't specified the correct C++ compiler location - once fixed it went through and compiled ok.
+  - Initial test (with R-Type) went ok, went in-game but seems quite slow.
+  - Looking online this is a common issue with this emulator, and there are a myriad of Quick Menu options to play with to improve it.
+  - This is a Git snapshot, but identifies as version 3.5.
+  - There are many machine options during compilation (e.g. C128, Commodore Plus 4 etc), but this is the standard C64 build.
+  
   
