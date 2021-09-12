@@ -1,4 +1,4 @@
-Sept 2021
+September 2021
 
 lr-handy
 - An Atari Lynx emulator
