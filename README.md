@@ -1,6 +1,6 @@
-# libretro-cores-leap
+# libretro-cores-lf2000
  
-A repository for compiled libretro cores specifically for Leapfrog devices (LeapPad / Leapster).
+A repository for compiled libretro cores specifically for Leapfrog devices (LeapPad2 / LeapsterGS).
 
 These can be used with Retroleap (see https://github.com/mac2612/retroleap)
 
